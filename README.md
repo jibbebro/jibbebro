@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jibbebro
+- 👋 Hi, I’m @Abdul_Maaniu
 - 👀 I’m interested in computer programing, game development and CS theching 
-- 🌱 I’m currently learning C4 certificatr in computer computerscience
+- 🌱 I’m currently learning Bachlors of Computer Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me if you want to reach me email to abdulmaaniu9@gmail.com 
 - 😄 Pronouns: he/him 
