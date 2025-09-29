@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Abdul_Maaniu
-- 👀 I’m interested in computer programing, game development and CS theching 
+- 👋 Hi, I’m @jibbe_bro 
+- 👀 I’m interested in computer programing, game development and 
 - 🌱 I’m currently learning Bachlors of Computer Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me if you want to reach me email to abdulmaaniu9@gmail.com 
